@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819732732318",
+    "project_id": "dolapta-ne-var-app-60b2f",
+    "storage_bucket": "dolapta-ne-var-app-60b2f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819732732318:android:3ac5e4a800c8ae22985e8f",
+        "android_client_info": {
+          "package_name": "com.example.dolaptanevarapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819732732318-ihfthfb5nhbuuvjbmdkj0l7k6qass693.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH3MYy_L5DANnkjG069srM3di2U4-odcw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819732732318-ihfthfb5nhbuuvjbmdkj0l7k6qass693.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
